@@ -43,7 +43,11 @@ I'm passionate about leveraging AI and modern web technologies to create impactf
 - **Ai Architect**
   - Built with Roboflow, PyTorch, NLP, Machine Learning, Stable Diffusion Model, Hugging Face Space, Deep Learning
   - three.js, React(Next.js), TailwindCss, Bootstrap, LLMs, RAG, Langchain, Meshy.ai, Pinecoen(vectorized Database)
-  - 
+  
+- **Movie Recommendation System**
+- Built with Machine learning doing data preprocessing, feature extraction and training and texting split using the sklearn
+- and after these saving the model and uing a python library called StreamLit where we can make a ui interface for
+- the machine learning and datascience models  like how they would work in the interface. 
 
 - **StudyConnect Plateform**
   - Django, authentication , authorization, htmls, css, javascript 
