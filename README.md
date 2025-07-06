@@ -41,13 +41,18 @@ I'm passionate about leveraging AI and modern web technologies to create impactf
 ## 🔥 Featured Projects
 
 - **Ai Architect**
+  - Building a system where using filling a form , extering its details about house the plot length width(sqfeet),
+  - and then no. of floors, and no. of bedrooms and according to its a floorplan will generate by the prediction model of Machine learning
+  - and after that a chatbot is making suggestin does its realisxtic or unrealistic approach and also we can enter prompt in chatbot for house informations
+  - then user can generate exterior designs with the color schemes and the no. of variations, and then making 3d on this exterior
+  - then it can generate the iterior designs and the real life interior designs links so user can buy them.
   - Built with Roboflow, PyTorch, NLP, Machine Learning, Stable Diffusion Model, Hugging Face Space, Deep Learning
-  - three.js, React(Next.js), TailwindCss, Bootstrap, LLMs, RAG, Langchain, Meshy.ai, Pinecoen(vectorized Database)
+  - three.js, React(Next.js), TailwindCss, Bootstrap, supabase ,LLMs, RAG, Langchain, Meshy.ai, Pinecoen(vectorized Database)
   
 - **Movie Recommendation System**
-- Built with Machine learning doing data preprocessing, feature extraction and training and texting split using the sklearn
-- and after these saving the model and uing a python library called StreamLit where we can make a ui interface for
-- the machine learning and datascience models  like how they would work in the interface. 
+  - Built with Machine learning doing data preprocessing, feature extraction and training and texting split using the sklearn
+  - and after these saving the model and uing a python library called StreamLit where we can make a ui interface for
+  - the machine learning and datascience models  like how they would work in the interface. 
 
 - **StudyConnect Plateform**
   - Django, authentication , authorization, htmls, css, javascript 
