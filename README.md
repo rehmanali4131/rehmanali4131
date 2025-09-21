@@ -1,4 +1,4 @@
-**AI DEVELOPER**
+# AI DEVELOPER
 
 # 💫 About Me
 
