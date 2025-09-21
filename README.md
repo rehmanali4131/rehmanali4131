@@ -1,17 +1,10 @@
-# 💫 About Me
-
-## 👋 Hi, I'm **Rehman Ali**
-
 **AI DEVELOPER**
 
----
+# 💫 About Me
 
-### 🚀 About Me
-
-I’m Rehman Ali, a programmer with 1 year of experience in AI/ML, passionate about transforming complex problems into intelligent, elegant solutions using Machine Learning and Artificial Intelligence.
+## 👋 Hi, I'm **Rehman Ali**, a programmer with 1 year of experience in AI/ML, passionate about transforming complex problems into intelligent, elegant solutions using Machine Learning and Artificial Intelligence.
 
 My expertise lies in building Computer Vision and NLP models with PyTorch, and I also develop scalable and robust APIs using frameworks like Django REST Framework. I focus on writing clean, maintainable, and efficient code while continuously learning and expanding my skill set.
-
 
 ---
 
