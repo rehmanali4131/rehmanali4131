@@ -37,20 +37,12 @@
 
 <br/>
 
-<!-- ─────────────────────────  AGENT TERMINAL  ───────────────────────── -->
+<!-- ─────────────────────────  ANIMATED AGENT BOOT TERMINAL  ───────────────────────── -->
 
 <div align="center">
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║  [ AGENT://rehman_ali ] ──────────────────────────  STATUS: ONLINE ║
-║  ▸ Perceive    ▶ multi-modal vision · NLP · sensors                ║
-║  ▸ Reason      ▶ LLMs · chain-of-thought · planning                ║
-║  ▸ Memory      ▶ vector DBs · RAG · long-context retrieval         ║
-║  ▸ Act         ▶ tool-use · API orchestration · code execution     ║
-║  ▸ Learn       ▶ feedback loops · fine-tuning · self-improvement   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<!-- Animated typing terminal that simulates an agent booting up -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=600&color=A78BFA&background=1A0B3D&center=true&vCenter=true&width=850&height=240&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%5B+AGENT%3A%2F%2Frehman_ali+%5D%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%96%B8+%5BBOOT%5D++Loading+neural+pathways............+%E2%9C%93;%E2%96%B8+%5BPERCEIVE%5D++Vision+%2B+NLP+sensors+online......+%E2%9C%93;%E2%96%B8+%5BREASON%5D++Chain-of-thought+initialized......+%E2%9C%93;%E2%96%B8+%5BMEMORY%5D++Vector+DB++RAG+pipeline+active...+%E2%9C%93;%E2%96%B8+%5BACT%5D++Tool-use+%2B+API+orchestration+ready..+%E2%9C%93;%E2%96%B8+%5BLEARN%5D++Feedback+loop+established......+%E2%9C%93;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%5B+STATUS%3A+ONLINE+%E2%9A%A1+%5D%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="Agent Boot Sequence" />
 
 </div>
 
@@ -60,7 +52,8 @@
 
 <div align="center">
 
-## ◇ Initializing Agent Profile ◇
+<!-- Animated header for About section -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=4000&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&height=60&lines=%E2%97%87+Initializing+Agent+Profile+%E2%97%87" alt="About Header" />
 
 </div>
 
@@ -137,7 +130,7 @@ class RehmanAli(AutonomousAgent):
 
 <br/>
 
-<!-- ─────────────────────────  AGENT ARCHITECTURE  ───────────────────────── -->
+<!-- ─────────────────────────  AGENT ARCHITECTURE (ANIMATED MERMAID DIAGRAM)  ───────────────────────── -->
 
 <div align="center">
 
@@ -151,38 +144,75 @@ class RehmanAli(AutonomousAgent):
 
 <div align="center">
 
-```
-        ┌──────────────────────────────────────────────────────┐
-        │              🧠  AGENTIC AI LAYER                    │
-        │     LangGraph · LangChain · n8n · ReAct · CoT        │
-        └──────────────────────────────────────────────────────┘
-                              ▲
-                              │
-        ┌──────────────────────────────────────────────────────┐
-        │           🔮  REASONING & GENERATION                 │
-        │   OpenAI · Anthropic · HuggingFace · Stable Diffusion│
-        └──────────────────────────────────────────────────────┘
-                              ▲
-                              │
-        ┌──────────────────────────────────────────────────────┐
-        │              👁️  PERCEPTION LAYER                    │
-        │      PyTorch · TensorFlow · OpenCV · Roboflow        │
-        └──────────────────────────────────────────────────────┘
-                              ▲
-                              │
-        ┌──────────────────────────────────────────────────────┐
-        │           💾  MEMORY & RETRIEVAL                     │
-        │      Pinecone · ChromaDB · RAG · Supabase            │
-        └──────────────────────────────────────────────────────┘
-                              ▲
-                              │
-        ┌──────────────────────────────────────────────────────┐
-        │         🦾  ACTUATION & DEPLOYMENT                   │
-        │   FastAPI · Django · Docker · GitHub Actions         │
-        └──────────────────────────────────────────────────────┘
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {
+  'primaryColor': '#4F46E5',
+  'primaryTextColor': '#ffffff',
+  'primaryBorderColor': '#8B5CF6',
+  'lineColor': '#A78BFA',
+  'secondaryColor': '#3B0764',
+  'tertiaryColor': '#1A0B3D',
+  'background': '#1A0B3D',
+  'mainBkg': '#3B0764',
+  'secondBkg': '#4F46E5'
+}}}%%
+flowchart TD
+    USER([👤 User Input]):::input ==>|"perceive"| BRAIN
+
+    subgraph BRAIN[" 🧠 AGENT CORE "]
+        direction TB
+        PERC[👁️ PERCEPTION<br/>Vision · NLP · Multi-modal]:::layer
+        REAS[🔮 REASONING<br/>LLMs · CoT · Planning]:::layer
+        MEM[💾 MEMORY<br/>Vector DB · RAG]:::layer
+        ACT[🦾 ACTUATION<br/>Tools · APIs · Code]:::layer
+
+        PERC ==> REAS
+        REAS <==> MEM
+        REAS ==> ACT
+    end
+
+    BRAIN ==>|"act"| OUT([⚡ Real-World Impact]):::output
+    OUT -.->|"feedback loop"| PERC
+
+    classDef input fill:#8B5CF6,stroke:#A78BFA,stroke-width:3px,color:#fff,font-weight:bold
+    classDef output fill:#4F46E5,stroke:#A78BFA,stroke-width:3px,color:#fff,font-weight:bold
+    classDef layer fill:#3B0764,stroke:#8B5CF6,stroke-width:2px,color:#fff
 ```
 
 </div>
+
+<br/>
+
+<div align="center">
+
+### ⟨ Agent Stack Layers ⟩
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=8B5CF6&center=true&vCenter=true&width=160&height=30&lines=%F0%9F%A7%A0+AGENT+BRAIN" /><br/>
+<sub>LangGraph · LangChain<br/>OpenAI · Anthropic<br/>n8n · ReAct · CoT</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=A78BFA&center=true&vCenter=true&width=160&height=30&lines=%F0%9F%91%81%EF%B8%8F+SENSES" /><br/>
+<sub>PyTorch · TensorFlow<br/>OpenCV · Roboflow<br/>Stable Diffusion</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=4F46E5&center=true&vCenter=true&width=160&height=30&lines=%F0%9F%92%BE+MEMORY" /><br/>
+<sub>Pinecone · ChromaDB<br/>RAG · Supabase<br/>Postgres · Redis</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=8B5CF6&center=true&vCenter=true&width=160&height=30&lines=%F0%9F%A6%BE+BODY" /><br/>
+<sub>FastAPI · Django<br/>Flask · Node.js<br/>Python</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=A78BFA&center=true&vCenter=true&width=160&height=30&lines=%E2%9A%A1+DEPLOY" /><br/>
+<sub>Docker · GitHub Actions<br/>Linux · Git<br/>CI/CD Pipelines</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
