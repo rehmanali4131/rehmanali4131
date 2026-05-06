@@ -1,35 +1,30 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                                                                  ║ -->
-<!-- ║         ██████╗ ███████╗██╗  ██╗███╗   ███╗ █████╗ ███╗  ██╗     ║ -->
-<!-- ║         ██╔══██╗██╔════╝██║  ██║████╗ ████║██╔══██╗████╗ ██║     ║ -->
-<!-- ║         ██████╔╝█████╗  ███████║██╔████╔██║███████║██╔██╗██║     ║ -->
-<!-- ║         ██╔══██╗██╔══╝  ██╔══██║██║╚██╔╝██║██╔══██║██║╚████║     ║ -->
-<!-- ║         ██║  ██║███████╗██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚███║     ║ -->
-<!-- ║         ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝     ║ -->
-<!-- ║                                                                  ║ -->
-<!-- ║                  AI / ML ENGINEER · BUILDER · DREAMER            ║ -->
-<!-- ║                                                                  ║ -->
+<!-- ║              REHMAN ALI · AI / ML DEVELOPER                      ║ -->
+<!-- ║              Profile README · Ocean Cyan Theme                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rehman%20Ali&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20GenAI%20Builder&descAlignY=58&descSize=18&descAlign=50" width="100%" />
+<!-- ───── HERO BANNER (Ocean Cyan Gradient) ───── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:00D9FF&height=240&section=header&text=Rehman%20Ali&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20GenAI%20Builder&descAlignY=58&descSize=18&descAlign=50" width="100%" />
 
+<!-- ───── ANIMATED TYPING TAGLINE ───── -->
 <a href="https://github.com/rehmanali4131">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=70&lines=Turning+ideas+into+intelligent+systems.;Building+agents+that+think+%26+act.;Crafting+models+that+see+%26+understand.;Engineering+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- ───── STAT BADGES ───── -->
 <a href="https://github.com/rehmanali4131?tab=followers">
   <img src="https://img.shields.io/github/followers/rehmanali4131?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=rehmanali4131&label=Profile+Views&color=00d9ff&style=for-the-badge&base=300" />
 <a href="https://github.com/rehmanali4131?tab=repositories">
-  <img src="https://img.shields.io/github/stars/rehmanali4131?label=Stars&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=star" />
+  <img src="https://img.shields.io/github/stars/rehmanali4131?label=Stars&style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=star" />
 </a>
 <a href="https://www.linkedin.com/in/rehman-ali-20215a24a">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 
 </div>
@@ -104,6 +99,13 @@ class RehmanAli(AIEngineer):
 
 <br/>
 
+<!-- ───── DIVIDER ───── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
 <!-- ─────────────────────────  TECH ARSENAL  ───────────────────────── -->
 
 <div align="center">
@@ -161,6 +163,13 @@ class RehmanAli(AIEngineer):
 
 <br/>
 
+<!-- ───── DIVIDER ───── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
 <!-- ─────────────────────────  STATS  ───────────────────────── -->
 
 <div align="center">
@@ -179,7 +188,7 @@ class RehmanAli(AIEngineer):
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rehmanali4131&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6f61&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e" width="92%" />
+  <img src="https://streak-stats.demolab.com?user=rehmanali4131&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e" width="92%" />
 </div>
 
 <br/>
@@ -200,6 +209,13 @@ class RehmanAli(AIEngineer):
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanali4131&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="98%" />
 
+</div>
+
+<br/>
+
+<!-- ───── DIVIDER ───── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=2&section=header" width="100%" />
 </div>
 
 <br/>
@@ -317,7 +333,7 @@ I'm always excited about:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:00B4D8,100:0D1117&height=160&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <br/>
 
