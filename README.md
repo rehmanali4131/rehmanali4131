@@ -1,48 +1,31 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                                                                      ║ -->
-<!-- ║   ░█▀▄░█▀▀░█░█░█▄█░█▀█░█▀█░░░█▀█░█░░░▀█▀                            ║ -->
-<!-- ║   ░█▀▄░█▀▀░█▀█░█░█░█▀█░█░█░░░█▀█░█░░░░█░                            ║ -->
-<!-- ║   ░▀░▀░▀▀▀░▀░▀░▀░▀░▀░▀░▀░▀░░░▀░▀░▀▀▀░▀▀▀                            ║ -->
-<!-- ║                                                                      ║ -->
-<!-- ║         AUTONOMOUS · INTELLIGENT · AGENTIC                           ║ -->
-<!-- ║         AI / ML DEVELOPER · BUILDING AGENTS THAT THINK               ║ -->
-<!-- ║                                                                      ║ -->
+<!-- ║         REHMAN ALI · AI / ML DEVELOPER                               ║ -->
+<!-- ║         Building Agentic AI Systems & Production ML                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- ───── HERO BANNER (Neural Network: Indigo → Electric Blue → Violet) ───── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B3D,30:3B0764,60:4F46E5,100:8B5CF6&height=260&section=header&text=Rehman%20Ali&fontSize=82&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=%E2%97%87%20Architect%20of%20Autonomous%20AI%20Agents%20%E2%97%87&descAlignY=58&descSize=18&descAlign=50" width="100%" />
+<!-- ───── HERO BANNER (Neural Network Theme) ───── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B3D,30:3B0764,60:4F46E5,100:8B5CF6&height=240&section=header&text=Rehman%20Ali&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Developer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20GenAI&descAlignY=58&descSize=18&descAlign=50" width="100%" />
 
-<!-- ───── ANIMATED TYPING TAGLINE (Agentic Theme) ───── -->
+<!-- ───── ANIMATED TYPING TAGLINE ───── -->
 <a href="https://github.com/rehmanali4131">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=780&height=70&lines=%3E_+Initializing+autonomous+agent...;%3E_+Building+systems+that+perceive%2C+reason+%26+act.;%3E_+Engineering+minds%2C+not+just+models.;%3E_+Where+LLMs+meet+autonomy%2C+I+live.;%3E_+Agent+online.+Ready+to+build+the+future." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=50&lines=Building+agents+that+perceive%2C+reason+%26+act.;Engineering+production-ready+AI+systems.;Turning+models+into+real-world+impact." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ───── STATUS BADGES (Agent Telemetry) ───── -->
+<!-- ───── QUICK STATS BAR ───── -->
 <a href="https://github.com/rehmanali4131?tab=followers">
-  <img src="https://img.shields.io/github/followers/rehmanali4131?label=NEURAL+LINKS&style=for-the-badge&color=8B5CF6&labelColor=1A0B3D&logo=github" />
+  <img src="https://img.shields.io/github/followers/rehmanali4131?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=1A0B3D&logo=github" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=rehmanali4131&label=AGENT+VIEWS&color=4F46E5&style=for-the-badge&base=300&labelColor=1A0B3D" />
-<a href="https://github.com/rehmanali4131?tab=repositories">
-  <img src="https://img.shields.io/github/stars/rehmanali4131?label=ACTIVATIONS&style=for-the-badge&color=A78BFA&labelColor=1A0B3D&logo=star" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=rehmanali4131&label=Profile+Views&color=4F46E5&style=for-the-badge&base=300&labelColor=1A0B3D" />
 <a href="https://www.linkedin.com/in/rehman-ali-20215a24a">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B3D" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B3D" />
 </a>
-
-</div>
-
-<br/>
-
-<!-- ─────────────────────────  ANIMATED AGENT BOOT TERMINAL  ───────────────────────── -->
-
-<div align="center">
-
-<!-- Animated typing terminal that simulates an agent booting up -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=600&color=A78BFA&background=1A0B3D&center=true&vCenter=true&width=850&height=240&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%5B+AGENT%3A%2F%2Frehman_ali+%5D%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%96%B8+%5BBOOT%5D++Loading+neural+pathways............+%E2%9C%93;%E2%96%B8+%5BPERCEIVE%5D++Vision+%2B+NLP+sensors+online......+%E2%9C%93;%E2%96%B8+%5BREASON%5D++Chain-of-thought+initialized......+%E2%9C%93;%E2%96%B8+%5BMEMORY%5D++Vector+DB++RAG+pipeline+active...+%E2%9C%93;%E2%96%B8+%5BACT%5D++Tool-use+%2B+API+orchestration+ready..+%E2%9C%93;%E2%96%B8+%5BLEARN%5D++Feedback+loop+established......+%E2%9C%93;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%5B+STATUS%3A+ONLINE+%E2%9A%A1+%5D%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D" alt="Agent Boot Sequence" />
+<a href="mailto:rehmanamanatali@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B3D" />
+</a>
 
 </div>
 
@@ -52,74 +35,47 @@
 
 <div align="center">
 
-<!-- Animated header for About section -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=4000&pause=500&color=8B5CF6&center=true&vCenter=true&width=600&height=60&lines=%E2%97%87+Initializing+Agent+Profile+%E2%97%87" alt="About Header" />
+## ◇ About Me ◇
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-```python
-from autonomy import perceive, reason, act
-from memory import VectorStore
-from tools import LLM, RAG, ComputerVision
+I'm an **AI / ML Developer** focused on building **agentic AI systems** — software that doesn't just predict, but reasons, plans, and acts.
 
-class RehmanAli(AutonomousAgent):
-    """An agentic AI developer who builds minds, not just models."""
+With **2+ years** of hands-on experience, I work across the full AI stack:
 
-    def __init__(self):
-        self.name        = "Rehman Ali"
-        self.role        = "AI / ML Developer"
-        self.location    = "Pakistan 🇵🇰"
-        self.experience  = 2  # years building intelligent systems
+- 🧠 **LLMs & Agents** — LangChain, LangGraph, RAG, multi-agent orchestration
+- 👁️ **Computer Vision** — PyTorch, OpenCV, custom model training
+- 🦾 **Backend Engineering** — Django REST, FastAPI, scalable APIs
+- 🌐 **Full-stack Delivery** — React/Next.js for AI-powered interfaces
 
-        self.brain = {
-            "reasoning"   : ["LangGraph", "ReAct", "CoT"],
-            "perception"  : ["PyTorch", "OpenCV", "Roboflow"],
-            "memory"      : ["Pinecone", "Supabase", "RAG"],
-            "actuation"   : ["FastAPI", "n8n", "Tool-use"],
-        }
-
-        self.mission     = "Build agents that reason, plan & act."
-        self.currently   = "Architecting multi-agent systems"
-        self.philosophy  = "Code with intent. Build with autonomy."
-
-    def perceive(self, problem):
-        return self.brain["perception"].analyze(problem)
-
-    def reason(self, context):
-        return self.brain["reasoning"].plan(context)
-
-    def act(self):
-        return "Shipping intelligence to production. 🚀"
-```
+📍 Based in **Pakistan 🇵🇰** · Open to **remote work, freelance projects & collaborations** worldwide.
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-  <br/>
-  <i>"An agent isn't software.<br/>It's a digital mind in motion."</i>
-</div>
+```yaml
+agent: rehman_ali
+status: ONLINE
+role: AI / ML Developer
+experience: 2+ years
+focus:
+  - Agentic AI Systems
+  - LLM Orchestration
+  - RAG Pipelines
+  - Computer Vision
+mission: >
+  Build agents that
+  reason, plan & act
+  in production.
+```
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-🧠 &nbsp;Currently engineering **autonomous agents** that perceive, reason, plan & act independently.<br/>
-🤖 &nbsp;Specialized in **Agentic Systems · LLM Orchestration · GenAI · Computer Vision**.<br/>
-⚡ &nbsp;Always exploring **multi-agent collaboration, memory architectures & tool-use**.<br/>
-💬 &nbsp;Ask me about **LangGraph, RAG pipelines, agent design patterns, or vector databases**.<br/>
-🔮 &nbsp;Belief: **The next decade belongs to systems that don't wait for instructions — they take initiative**.
-
-</div>
 
 <br/>
 
@@ -130,13 +86,13 @@ class RehmanAli(AutonomousAgent):
 
 <br/>
 
-<!-- ─────────────────────────  AGENT ARCHITECTURE (ANIMATED MERMAID DIAGRAM)  ───────────────────────── -->
+<!-- ─────────────────────────  AGENT ARCHITECTURE  ───────────────────────── -->
 
 <div align="center">
 
-## ⚙ Agent Architecture ⚙
+## ⚙ How I Build Agents ⚙
 
-*The cognitive stack powering my autonomous systems.*
+*The architecture I follow when designing autonomous AI systems.*
 
 </div>
 
@@ -156,26 +112,26 @@ class RehmanAli(AutonomousAgent):
   'mainBkg': '#3B0764',
   'secondBkg': '#4F46E5'
 }}}%%
-flowchart TD
-    USER([👤 User Input]):::input ==>|"perceive"| BRAIN
+flowchart LR
+    USER([👤 Input]):::input ==> PERC
 
-    subgraph BRAIN[" 🧠 AGENT CORE "]
+    subgraph CORE[" 🧠 AGENT CORE "]
         direction TB
-        PERC[👁️ PERCEPTION<br/>Vision · NLP · Multi-modal]:::layer
-        REAS[🔮 REASONING<br/>LLMs · CoT · Planning]:::layer
-        MEM[💾 MEMORY<br/>Vector DB · RAG]:::layer
-        ACT[🦾 ACTUATION<br/>Tools · APIs · Code]:::layer
+        PERC[👁️ Perception<br/>Vision · NLP]:::layer
+        REAS[🔮 Reasoning<br/>LLMs · Planning]:::layer
+        MEM[(💾 Memory<br/>Vector DB · RAG)]:::layer
+        ACT[🦾 Actuation<br/>Tools · APIs]:::layer
 
         PERC ==> REAS
         REAS <==> MEM
         REAS ==> ACT
     end
 
-    BRAIN ==>|"act"| OUT([⚡ Real-World Impact]):::output
-    OUT -.->|"feedback loop"| PERC
+    CORE ==> OUT([⚡ Real Impact]):::output
+    OUT -.->|"feedback"| PERC
 
-    classDef input fill:#8B5CF6,stroke:#A78BFA,stroke-width:3px,color:#fff,font-weight:bold
-    classDef output fill:#4F46E5,stroke:#A78BFA,stroke-width:3px,color:#fff,font-weight:bold
+    classDef input fill:#8B5CF6,stroke:#A78BFA,stroke-width:3px,color:#fff
+    classDef output fill:#4F46E5,stroke:#A78BFA,stroke-width:3px,color:#fff
     classDef layer fill:#3B0764,stroke:#8B5CF6,stroke-width:2px,color:#fff
 ```
 
@@ -183,51 +139,35 @@ flowchart TD
 
 <br/>
 
+<!-- ───── DIVIDER ───── -->
 <div align="center">
-
-### ⟨ Agent Stack Layers ⟩
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:8B5CF6&height=2&section=header" width="100%" />
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=8B5CF6&center=true&vCenter=true&width=160&height=30&lines=%F0%9F%A7%A0+AGENT+BRAIN" /><br/>
-<sub>LangGraph · LangChain<br/>OpenAI · Anthropic<br/>n8n · ReAct · CoT</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=A78BFA&center=true&vCenter=true&width=160&height=30&lines=%F0%9F%91%81%EF%B8%8F+SENSES" /><br/>
-<sub>PyTorch · TensorFlow<br/>OpenCV · Roboflow<br/>Stable Diffusion</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=4F46E5&center=true&vCenter=true&width=160&height=30&lines=%F0%9F%92%BE+MEMORY" /><br/>
-<sub>Pinecone · ChromaDB<br/>RAG · Supabase<br/>Postgres · Redis</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=8B5CF6&center=true&vCenter=true&width=160&height=30&lines=%F0%9F%A6%BE+BODY" /><br/>
-<sub>FastAPI · Django<br/>Flask · Node.js<br/>Python</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=99999&pause=999999&color=A78BFA&center=true&vCenter=true&width=160&height=30&lines=%E2%9A%A1+DEPLOY" /><br/>
-<sub>Docker · GitHub Actions<br/>Linux · Git<br/>CI/CD Pipelines</sub>
-</td>
-</tr>
-</table>
+<br/>
+
+<!-- ─────────────────────────  TECH STACK  ───────────────────────── -->
+
+<div align="center">
+
+## 🛠️ Tech Stack 🛠️
+
+</div>
 
 <br/>
 
 <div align="center">
 
-#### 🧠 &nbsp; Agent Brain · LLMs · Reasoning
+#### 🧠 &nbsp; LLMs · Agents · GenAI
 
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1A0B3D?style=for-the-badge&logo=graphql&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/n8n-1A0B3D?style=for-the-badge&logo=n8n&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/OpenAI-1A0B3D?style=for-the-badge&logo=openai&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/Anthropic-1A0B3D?style=for-the-badge&logo=anthropic&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/HuggingFace-1A0B3D?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
 
-#### 👁️ &nbsp; Agent Senses · Vision · Perception
+#### 👁️ &nbsp; Deep Learning · Computer Vision
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,py" />
 <br/>
@@ -236,22 +176,21 @@ flowchart TD
 <img src="https://img.shields.io/badge/Pandas-1A0B3D?style=for-the-badge&logo=pandas&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/NumPy-1A0B3D?style=for-the-badge&logo=numpy&logoColor=8B5CF6" />
 
-#### 💾 &nbsp; Agent Memory · Vector Stores · RAG
+#### 💾 &nbsp; Databases · Vector Stores
 
 <img src="https://img.shields.io/badge/Pinecone-1A0B3D?style=for-the-badge&logo=pinecone&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/ChromaDB-1A0B3D?style=for-the-badge&logo=databricks&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/RAG-1A0B3D?style=for-the-badge&logo=databricks&logoColor=8B5CF6" />
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase,redis" />
 
-#### 🦾 &nbsp; Agent Body · Backend · APIs
+#### 🦾 &nbsp; Backend · APIs
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs" />
 
-#### 🌐 &nbsp; Agent Interface · Frontend · UI
+#### 🌐 &nbsp; Frontend · UI
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,threejs,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,threejs" />
 
-#### ⚡ &nbsp; Agent Deployment · DevOps · Tools
+#### ⚡ &nbsp; DevOps · Deployment
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode,postman" />
 
@@ -266,35 +205,100 @@ flowchart TD
 
 <br/>
 
-<!-- ─────────────────────────  AGENT CAPABILITIES  ───────────────────────── -->
+<!-- ─────────────────────────  WHAT I BRING  ───────────────────────── -->
 
 <div align="center">
 
-## 🎯 What My Agents Can Do 🎯
+## 💼 What I Bring to the Table 💼
+
+*Concrete things I can build for you or your team.*
 
 </div>
 
+<br/>
+
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/brain.png" width="60" /><br/>
-<b>🧠 Reason</b><br/>
-<sub>Multi-step planning,<br/>chain-of-thought,<br/>self-reflection</sub>
+<td width="50%" valign="top">
+
+### 🤖 Agentic AI Systems
+- Multi-agent workflows with **LangGraph**
+- Tool-using LLM agents that call APIs & execute code
+- n8n automations integrated with custom AI logic
+- Memory & state management for long-running agents
+
+### 🔍 RAG & Knowledge Systems
+- Production-grade RAG pipelines over private data
+- Vector DB design & optimization (Pinecone, ChromaDB)
+- Document parsing, chunking & semantic retrieval
+- Chatbots grounded in your company's knowledge base
+
+### 👁️ Computer Vision
+- Custom CV models trained on your dataset
+- Object detection, classification & segmentation
+- Image generation pipelines (Stable Diffusion)
+- End-to-end annotation → training → deployment
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/visible.png" width="60" /><br/>
-<b>👁️ Perceive</b><br/>
-<sub>Computer vision,<br/>object detection,<br/>multi-modal input</sub>
+<td width="50%" valign="top">
+
+### 🦾 Backend & APIs
+- REST APIs with **Django REST Framework / FastAPI**
+- Authentication, authorization & role-based access
+- Scalable architectures for ML model serving
+- Database design & query optimization
+
+### 🌐 Full-Stack AI Apps
+- Next.js / React frontends for AI products
+- Real-time interfaces with streaming LLM responses
+- 3D visualization with Three.js
+- Tailwind CSS for clean, responsive UI
+
+### ⚡ Deployment & DevOps
+- Containerization with **Docker**
+- CI/CD pipelines via GitHub Actions
+- Production monitoring & logging
+- Cloud deployment & infrastructure setup
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/database.png" width="60" /><br/>
-<b>💾 Remember</b><br/>
-<sub>Vector retrieval,<br/>long-term memory,<br/>RAG over docs</sub>
+</tr>
+</table>
+
+<br/>
+
+<!-- ───── DIVIDER ───── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:8B5CF6&height=2&section=header" width="100%" />
+</div>
+
+<br/>
+
+<!-- ─────────────────────────  CURRENTLY BUILDING  ───────────────────────── -->
+
+<div align="center">
+
+## 🚧 Currently Building 🚧
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60" /><br/>
+<b>Multi-Agent Systems</b><br/>
+<sub>Exploring agent collaboration patterns with LangGraph & autonomous workflows.</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/maintenance.png" width="60" /><br/>
-<b>🦾 Act</b><br/>
-<sub>Tool-use, API calls,<br/>code execution,<br/>real-world impact</sub>
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/cloud-development.png" width="60" /><br/>
+<b>Production RAG</b><br/>
+<sub>Building scalable retrieval systems with hybrid search & re-ranking.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/learning.png" width="60" /><br/>
+<b>MLOps Practices</b><br/>
+<sub>Leveling up on model deployment, monitoring & continuous training.</sub>
 </td>
 </tr>
 </table>
@@ -312,15 +316,15 @@ flowchart TD
 
 <div align="center">
 
-## 📊 Agent Telemetry 📊
+## 📊 GitHub Stats 📊
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehmanali4131&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=1A0B3D&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali4131&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1A0B3D&title_color=8B5CF6&text_color=c9d1d9&hide=html,css&langs_count=8" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rehmanali4131&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=1A0B3D&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali4131&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1A0B3D&title_color=8B5CF6&text_color=c9d1d9&hide=html,css&langs_count=8" />
 </div>
 
 <br/>
@@ -331,38 +335,11 @@ flowchart TD
 
 <br/>
 
-<div align="center">
-
-### 🏆 Agent Achievements 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=rehmanali4131&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📈 Neural Activity Graph 📈
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanali4131&theme=react-dark&hide_border=true&bg_color=1A0B3D&color=8B5CF6&line=8B5CF6&point=A78BFA&area=true&area_color=4F46E5" width="98%" />
-
-</div>
-
-<br/>
-
-<!-- ───── DIVIDER ───── -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:8B5CF6&height=2&section=header" width="100%" />
-</div>
-
-<br/>
-
 <!-- ─────────────────────────  SNAKE  ───────────────────────── -->
 
 <div align="center">
 
-## 🐍 The Agent Hunting Through Time 🐍
+### 🐍 Contribution Activity
 
 </div>
 
@@ -374,65 +351,35 @@ flowchart TD
 
 <br/>
 
-<!-- ─────────────────────────  PHILOSOPHY  ───────────────────────── -->
-
+<!-- ───── DIVIDER ───── -->
 <div align="center">
-
-## ◈ Core Directives ◈
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:8B5CF6&height=2&section=header" width="100%" />
 </div>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70" /><br/>
-<b>Build Autonomy</b><br/>
-<sub>Systems that don't wait for instructions — they observe, decide & act on their own.</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="70" /><br/>
-<b>Engineer Intelligence</b><br/>
-<sub>Clean architectures, modular agents, production-grade reliability. No hacks.</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="70" /><br/>
-<b>Deploy Real Impact</b><br/>
-<sub>An agent in a notebook is a demo. An agent in production is the future.</sub>
-</td>
-</tr>
-</table>
 
 <br/>
 
-<!-- ─────────────────────────  QUOTE  ───────────────────────── -->
+<!-- ─────────────────────────  AVAILABLE FOR  ───────────────────────── -->
 
 <div align="center">
 
-## 💭 Today's Signal 💭
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="85%" />
+## 🤝 Available For 🤝
 
 </div>
 
 <br/>
 
-<!-- ─────────────────────────  COLLABORATION  ───────────────────────── -->
-
 <div align="center">
 
-## 🤝 Open to Collaborate 🤝
-
-I'm always excited about:
-
-🤖 &nbsp;**Agentic AI projects** — autonomous workflows, multi-agent systems, tool-using LLMs<br/>
-🧠 &nbsp;**RAG & knowledge systems** — production-grade retrieval & memory architectures<br/>
-👁️ &nbsp;**Computer Vision pipelines** — detection, generation, multi-modal models<br/>
-💼 &nbsp;**Freelance & contract work** — building AI products from prototype to scale<br/>
-☕ &nbsp;**A good conversation** — about agents, AGI, the future of human-AI collaboration
+| 💼 **Full-time Roles** | 💻 **Freelance & Contract** | 🌍 **Open Source** |
+| :---: | :---: | :---: |
+| AI / ML Developer positions | Building AI products from idea to launch | Contributing to AI/ML projects |
+| Remote-first preferred | Short-term & long-term engagements | Looking for interesting collaborations |
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Got+an+agent+to+build%3F+Let's+make+it+autonomous.;Need+an+AI+%2F+ML+Developer%3F+Agent+ready+to+deploy.;Let's+build+systems+that+think%2C+reason+%26+act." />
+<a href="mailto:rehmanamanatali@gmail.com">
+  <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Let's%20talk-rehmanamanatali%40gmail.com-8B5CF6?style=for-the-badge&labelColor=1A0B3D" />
+</a>
 
 </div>
 
@@ -442,26 +389,19 @@ I'm always excited about:
 
 <div align="center">
 
-## 🌐 Establish Connection 🌐
+## 🌐 Let's Connect 🌐
 
 <a href="mailto:rehmanamanatali@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rehmanamanatali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B3D" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B3D" />
 </a>
 <a href="https://www.linkedin.com/in/rehman-ali-20215a24a">
-  <img src="https://img.shields.io/badge/LinkedIn-Rehman%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B3D" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B3D" />
 </a>
 <a href="https://leetcode.com/u/oSHN0tdoRF/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1A0B3D" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1A0B3D" />
 </a>
-<br/>
 <a href="https://github.com/rehmanali4131">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B3D" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100040496742260">
-  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1A0B3D" />
-</a>
-<a href="https://www.instagram.com/rehmanaly_/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1A0B3D" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B3D" />
 </a>
 
 </div>
@@ -472,14 +412,8 @@ I'm always excited about:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,30:4F46E5,60:3B0764,100:1A0B3D&height=170&section=footer&text=%5B%20agent.exit()%20%5D%20%E2%80%94%20Until%20we%20meet%20again.&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,30:4F46E5,60:3B0764,100:1A0B3D&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
-<br/>
-
-<i>⭐ If my work resonated with you, drop a star — every signal trains the agent.</i>
-
-<br/><br/>
-
-<sub>⚡ Engineered with neural fire & autonomous intent by <b>Rehman Ali</b> ⚡</sub>
+<sub>⭐ If you'd like to work together, drop me an email or message on LinkedIn.</sub>
 
 </div>
