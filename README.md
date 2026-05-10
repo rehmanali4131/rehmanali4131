@@ -57,7 +57,7 @@ My work focuses on:
 `Python` `PyTorch` `TensorFlow` `OpenCV` `Scikit-Learn`
 
 ### LLM & Agentic AI
-`LangChain` `LangGraph` `OpenAI` `RAG` `Vector Databases` `Vectorless Rag`
+`LangChain` `LangGraph` `OpenAI` `RAG` `Vector Databases`
 
 ### Backend & Infrastructure
 `FastAPI` `Flask` `Django` `PostgreSQL` `Redis` `Docker` `GitHub Actions`
@@ -65,17 +65,5 @@ My work focuses on:
 ### Automation
 `n8n` `AI Workflows` `Agent Orchestration`
 
-### Deployemnts
-`Aws` `Digital Ocean` `Runpod`
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rehmanali4131&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali4131&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
+### Deployments
+`AWS` `DigitalOcean` `RunPod`
