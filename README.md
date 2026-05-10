@@ -89,50 +89,6 @@ mission: >
 <!-- ─────────────────────────  AGENT ARCHITECTURE  ───────────────────────── -->
 
 <div align="center">
-
-## ⚙ How I Build Agents ⚙
-
-*The architecture I follow when designing autonomous AI systems.*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': {
-  'primaryColor': '#4F46E5',
-  'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#8B5CF6',
-  'lineColor': '#A78BFA',
-  'secondaryColor': '#3B0764',
-  'tertiaryColor': '#1A0B3D',
-  'background': '#1A0B3D',
-  'mainBkg': '#3B0764',
-  'secondBkg': '#4F46E5'
-}}}%%
-flowchart LR
-    USER([👤 Input]):::input ==> PERC
-
-    subgraph CORE[" 🧠 AGENT CORE "]
-        direction TB
-        PERC[👁️ Perception<br/>Vision · NLP]:::layer
-        REAS[🔮 Reasoning<br/>LLMs · Planning]:::layer
-        MEM[(💾 Memory<br/>Vector DB · RAG)]:::layer
-        ACT[🦾 Actuation<br/>Tools · APIs]:::layer
-
-        PERC ==> REAS
-        REAS <==> MEM
-        REAS ==> ACT
-    end
-
-    CORE ==> OUT([⚡ Real Impact]):::output
-    OUT -.->|"feedback"| PERC
-
-    classDef input fill:#8B5CF6,stroke:#A78BFA,stroke-width:3px,color:#fff
-    classDef output fill:#4F46E5,stroke:#A78BFA,stroke-width:3px,color:#fff
-    classDef layer fill:#3B0764,stroke:#8B5CF6,stroke-width:2px,color:#fff
 ```
 
 </div>
