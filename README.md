@@ -48,7 +48,7 @@ I specialize in turning AI concepts into scalable production systems using moder
 
 ---
 
-# ⚡ Current Focus
+# Current Focus
 
 - Enterprise AI Assistants
 - Agentic AI Workflows
