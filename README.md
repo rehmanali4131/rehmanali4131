@@ -31,7 +31,7 @@ LLMs • Agentic AI • RAG Systems • Deep Learning • Computer Vision • AI
 
 ---
 
-# 🧠 About Me
+# About Me
 
 I build intelligent AI systems focused on real-world production deployment.
 
@@ -60,15 +60,8 @@ I specialize in turning AI concepts into scalable production systems using moder
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehmanali4131&theme=onestar&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-# 🛠 Tech Stack
+# Tech Stack
 
 ## AI / Machine Learning
 Python PyTorch TensorFlow Scikit-Learn OpenCV  
@@ -86,15 +79,15 @@ Docker Celery RabbitMQ GitHub Actions
 n8n Trigger.dev AI Workflows Agent Orchestration
 
 ## Cloud & Deployment
-AWS DigitalOcean RunPod Supabase Vercel
+AWS DigitalOcean RunPod Supabase Vercel Railways Render
 
 ---
 
-# 🚀 Engineering Areas
+# Engineering Areas
 
 - Production AI Systems
 - LLM Infrastructure
-- AI Agents & Automation
+- AI Agents and Automation
 - Distributed AI Pipelines
 - Computer Vision
 - Deep Learning
@@ -103,7 +96,7 @@ AWS DigitalOcean RunPod Supabase Vercel
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanali4131&theme=tokyo-night&hide_border=true" />
