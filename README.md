@@ -38,14 +38,14 @@ My work focuses on developing production-ready AI applications powered by Large 
 
 ### I enjoy building
 
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 LLM Applications
-- 📚 Retrieval-Augmented Generation (RAG)
-- 💬 Conversational AI
-- ⚡ FastAPI Backend Services
-- 👁️ Computer Vision Solutions
-- 🔄 AI Workflow Automation
-- ☁️ Scalable AI Infrastructure
+- AI Agents & Multi-Agent Systems
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Conversational AI
+- FastAPI Backend Services
+- Computer Vision Solutions
+- AI Workflow Automation
+- Scalable AI Infrastructure
 
 ---
 
@@ -74,24 +74,6 @@ Docker • GitHub Actions • AWS • RunPod • Supabase • DigitalOcean • V
 ### Automation
 
 n8n • Trigger.dev
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rehmanali4131&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanali4131&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali4131&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
