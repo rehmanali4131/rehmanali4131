@@ -1,21 +1,17 @@
 <div align="center">
 
-# Hi, I'm Rehman Ali 👋
+# Hi, I'm Rehman Ali
 
 ### AI Engineer
 
-### Building Production-Grade AI Products with LLMs, Agentic AI & Python
+Building LLM-powered products, AI agents, and scalable AI applications with Python.
 
-**LLMs • AI Agents • RAG • FastAPI • LangGraph • PyTorch**
+**Python • LLMs • Agentic AI • RAG • LangGraph • FastAPI • PyTorch**
 
 <br>
 
 <a href="https://github.com/rehmanali4131">
-<img src="https://img.shields.io/github/followers/rehmanali4131?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<a href="https://komarev.com/ghpvc/?username=rehmanali4131&style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=rehmanali4131&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/rehmanali4131?style=for-the-badge&label=Followers"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rehman-ali-20215a24a">
@@ -30,105 +26,48 @@
 
 ---
 
-# 🚀 About Me
+## About Me
 
-I'm an AI Engineer focused on building production-ready AI products that solve real business problems.
+I'm an AI Engineer focused on building production-ready AI applications using modern machine learning and backend technologies.
 
-My work spans the complete AI development lifecycle—from training and integrating models to deploying scalable APIs, AI agents, and enterprise-grade LLM applications.
-
-I enjoy building systems that are reliable, maintainable, observable, and ready for production.
+My interests include LLMs, AI agents, Retrieval-Augmented Generation (RAG), computer vision, deep learning, and scalable Python APIs.
 
 ---
 
-# 💡 What I Build
+## Tech Stack
 
-- 🤖 AI Agents & Multi-Agent Systems
-- 🧠 LLM Applications
-- 📚 Retrieval-Augmented Generation (RAG)
-- 💬 AI Chatbots & Conversational AI
-- 👁️ Computer Vision Solutions
-- ⚡ FastAPI & Python Backends
-- 🔄 AI Workflow Automation
-- ☁️ AI SaaS Platforms
-- 📊 ML Pipelines & Model Serving
+**Languages**
 
----
+Python • SQL • JavaScript • TypeScript
 
-# 🛠 Tech Stack
+**AI & Machine Learning**
 
-## AI Engineering
+PyTorch • Transformers • Scikit-learn • OpenCV
 
-**Python • PyTorch • Transformers • Scikit-learn • OpenCV**
+**LLM Engineering**
 
-## LLM & Agentic AI
+OpenAI • LangGraph • LangChain • RAG • MCP
 
-**OpenAI • LangGraph • LangChain • RAG • MCP • Vector Databases**
+**Backend**
 
-## Backend
+FastAPI • Django • PostgreSQL • Redis • Celery • RabbitMQ
 
-**FastAPI • Django • PostgreSQL • Redis • Celery • RabbitMQ**
+**Infrastructure**
 
-## Infrastructure
+Docker • AWS • RunPod • Supabase • DigitalOcean
 
-**Docker • AWS • DigitalOcean • RunPod • Supabase • GitHub Actions**
+**Observability**
 
-## Observability
+Prometheus • Grafana • Sentry
 
-**Prometheus • Grafana • Sentry**
+**Automation**
 
-## Automation
-
-**n8n • Trigger.dev**
+n8n • Trigger.dev
 
 ---
 
-# 📈 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rehmanali4131&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanali4131&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanali4131&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanali4131&theme=tokyo-night&hide_border=true"/>
-
 </p>
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in collaborating on:
-
-- AI Products
-- LLM Applications
-- AI Agents
-- RAG Systems
-- Computer Vision
-- AI SaaS Platforms
-
-📩 **Email:** rehmanamanatali@gmail.com
-
-💼 **LinkedIn:** https://linkedin.com/in/rehman-ali-20215a24a
-
----
-
-<div align="center">
-
-### Building AI products that people use—not just prototypes.
-
-</div>
