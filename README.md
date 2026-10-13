@@ -6,7 +6,7 @@
 <p>I build AI agents, retrieval systems, and computer vision applications.<br>
 Python at the core. Complete products around it.</p>
 
-<p><strong>2+ years of experience · Lahore, Pakistan</strong></p>
+<p><strong>2 years of experience · Lahore, Pakistan</strong></p>
 
 <a href="https://www.linkedin.com/in/rehman-ali-20215a24a">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn">
